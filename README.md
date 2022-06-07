@@ -14,7 +14,7 @@ The code for running the bioinformatics pipelines for the amplicon 16S sequencin
 
 ### Feedback
 
-- Please report any problems or bugs in the code in the [Issues](https://github.com/padpadpadpad/Lear_2022_stoten/issues) tab of the GitHub repository. Alternatively, please email _d.padfield@exeter.ac.uk_.
+- Please report any problems or bugs in the code in the [Issues](https://github.com/padpadpadpad/Lear_et_al_2022_stoten/issues) tab of the GitHub repository. Alternatively, please email _d.padfield@exeter.ac.uk_.
 
 ### Licensing
 
