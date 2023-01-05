@@ -4,7 +4,7 @@ _Lear et al. (2022) Bacterial colonisation dynamics of household plastics in a c
 
 DOI of paper: [doi.org/10.1016/j.scitotenv.2022.156199](https://www.sciencedirect.com/science/article/pii/S004896972203296X)
 
-ENA Accession number for sequencing: PRJEB5334
+ENA Accession number for sequencing: PRJEB53346
 
 ### Outline
 
